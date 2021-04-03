@@ -1,0 +1,19 @@
+title: Bodega casita
+theme: bodega
+publishDir: docs
+disableKinds: [taxonomy, term, RSS, robotsTXT]
+
+menu:
+  main:
+    - name: Bodega casita
+      url: /
+      weight: 1
+    - name: Recetas
+      url: /recetas/
+    - name: Manuales
+      url: /manuales/
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
