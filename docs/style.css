@@ -1,0 +1,34 @@
+/*
+* Colors:
+* #641c34 = Burdeos
+* #d8c6cc = Burdeos*0.25 + White*0.75
+* #4b1527 = Burdeos*0.75 + Black*0.25
+* #e49cb4 = Burdeos*1.0 + White*0.5
+* #f7f4f5 = Burdeos*0.05 + White*0.95
+*/
+
+/* General layout */
+body { max-width: 800px; margin: auto; padding: 2rem }
+body { font-family: sans-serif }
+body { background-color: #d8c6cc}
+
+/* Top menu */
+.menu { background-color: #641c34; overflow: hidden; line-height: 3rem }
+.menu a { text-decoration: none; color: #f7f4f5; padding: 1rem }
+.menu a:hover { background-color: #4b1527; color: #f7f4f5 }
+.menu a.important { font-weight: bold }
+
+/* Footer style */
+.footer { text-align: center; margin-top: 2rem; margin-bottom: 0rem; border-top: 1px solid #641c34; line-height: 3rem }
+
+/* Body style */
+h1, h2 { color: #641c34; border-bottom: 0.1rem #641c34 solid }
+p { text-align: justify; line-height: 1.5rem }
+a { color: #641c34; text-decoration: none }
+a:hover { color: #4b1527 }
+img { display: block; margin: auto; max-width: 90% }
+table { width: 90%; margin: auto; border-collapse: collapse }
+tr { border-bottom: 1px solid #641c34; background-color: #f7f4f5 }
+tr:hover { background-color: #e49cb4 }
+th, td { text-align: center; padding-left: 1rem; padding-right: 1rem; line-height: 1.5rem }
+th { background-color: #641c34; color: #f7f4f5 }
