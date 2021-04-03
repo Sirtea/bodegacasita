@@ -1,4 +1,5 @@
 title: Bodega casita
+baseUrl: https://sirtea.github.io/bodegacasita/
 theme: bodega
 publishDir: docs
 disableKinds: [taxonomy, term, RSS, robotsTXT]
