@@ -11,7 +11,7 @@ siempre que no haya un problema y la fermentación pare antes; por eso hablamos 
 
 Medir el azúcar en un mosto no es posible; el densímetro nos indica la *gravedad
 específica*, que es una función directa del azúcar que contiene. Visto que estos
-valores están relacionados, podemos correlarlos los tres, en una tabla para su fácil
+valores están relacionados, podemos añadirlos los tres en una tabla para su fácil
 consulta; esta tabla se basa en muestras tomadas:
 
 |  SG  | % alcohol potencial | azúcar (g/L) |
@@ -50,7 +50,7 @@ Alternativamente podemos aproximarlo con un simple cálculo:
 * Cada 19gr de azúcar genera 1% de alcohol potencial
 
 **EJEMPLO**: Quiero generar un vino de un 6% de alcohol; tengo que tener elevar
-el azúcar de 0 (agua) a 114gr (19*6) por litro. Eso supone unos 42 (114/2,7)
+el azúcar de 0gr (agua) a 114gr (19*6) por litro. Eso supone unos 42 (114/2,7)
 incrementos en la gravedad, que partiendo de agua (gravedad 1000), resultaría
 en una gravedad aproximada de 1042.
 
@@ -85,7 +85,7 @@ El alcohol final del producto no va a sorprender: o bien no hay problemas y es c
 al calculado, o bien ha parado la fermentación y nos hemos quedado a medio camino.
 
 La forma más fácil de salir de dudas es medir la gravedad otra vez. Con la gravedad
-incial y la final (es importante recordar estos valores!) se puede calcular el valor
+inicial y la final (es importante recordar estos valores!) se puede calcular el valor
 real de alcohol del licor final:
 
 > %alcohol = (SG<sub>inicial</sub> - SG<sub>final</sub>) / 7,36
