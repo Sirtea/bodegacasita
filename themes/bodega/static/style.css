@@ -32,3 +32,7 @@ tr { border-bottom: 1px solid #641c34; background-color: #f7f4f5 }
 tr:hover { background-color: #e49cb4 }
 th, td { text-align: center; padding-left: 1rem; padding-right: 1rem; line-height: 1.5rem }
 th { background-color: #641c34; color: #f7f4f5 }
+blockquote { border-left: 1rem solid #641c34; margin: 0rem; padding: 0rem 1rem; background-color: #f7f4f5 }
+/*
+blockquote { border-left: 0.5rem #AAAAAA solid; margin-left: 0rem; margin-right: 0rem; padding: 5.1rem 1rem; background-color: #EEEEEE }
+*/
