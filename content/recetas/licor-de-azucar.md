@@ -17,7 +17,7 @@ zumo antes de beberlo.
 ## Ingredientes
 
 * 1 botella de agua de 1,5 litros
-* 200 gramos de azúcar blanco
+* 250 gramos de azúcar blanco
 * 5,5 gramos de levadura seca (1 sobre)
 
 ## Decisiones tomadas
@@ -37,11 +37,12 @@ todos los elementos faltantes.
 
 Como quería algo tipo cerveza o sidra, decidí apuntar a una graduación alcohólica
 de aproximadamente un 10%. Verificando la [tabla de densidades][3] vemos que
-necesitamos una densidad de entre 1075 y 1080 (de 195gr de azúcar a 208gr). Como
-valor aproximado, me quedo con 200gr exactos.
+necesitamos una densidad de entre 1075 y 1080 (de 195gr de azúcar a 208gr **por
+litro**). Como valor aproximado, me quedo con 200gr exactos por litro; como vamos
+a trabajar con 1,25 litros, ponemos 250 gramos.
 
 Como el mosto base es agua (densidad 1000, sin azúcares), el azúcar falta en su
-totalidad. Por eso vamos a añadir estos 200gr de forma manual. Para su fácil
+totalidad. Por eso vamos a añadir estos 250gr de forma manual. Para su fácil
 disolución voy a tener que calentar el agua un poco.
 
 ## Coste
@@ -49,11 +50,11 @@ disolución voy a tener que calentar el agua un poco.
 | Ingrediente | Coste envase | Cantidad envase   | Cantidad utilizada | Coste total |
 |-------------|--------------|-------------------|--------------------|-------------|
 | Agua        | 0,22€        | 1,5L              | 1,5L               | 0,22€       |
-| Azúcar      | 0,75€        | 1kg               | 200gr              | 0,15€       |
+| Azúcar      | 0,75€        | 1kg               | 250gr              | 0,19€       |
 | Levadura    | 1,45€        | 27,5gr (5 sobres) | 5,5gr (1 sobre)    | 0,29€       |
 | Globo       | 0,80€        | 10 globos         | 1 globo            | 0,08€       |
 
-**Total**: 0,74€
+**Total**: 0,78€
 
 ## Instrucciones
 
