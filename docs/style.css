@@ -22,7 +22,8 @@ body { background-color: #d8c6cc}
 .footer { text-align: center; margin-top: 2rem; margin-bottom: 0rem; border-top: 1px solid #641c34; line-height: 3rem }
 
 /* Body style */
-h1, h2, h3 { color: #641c34; border-bottom: 0.1rem #641c34 solid }
+h1, h2, h3, h4 { color: #641c34 }
+h1, h2, h3 { border-bottom: 0.1rem #641c34 solid }
 p { text-align: justify; line-height: 1.5rem }
 a { color: #641c34; text-decoration: none }
 a:hover { color: #4b1527 }
@@ -33,6 +34,3 @@ tr:hover { background-color: #e49cb4 }
 th, td { text-align: center; padding-left: 1rem; padding-right: 1rem; line-height: 1.5rem }
 th { background-color: #641c34; color: #f7f4f5 }
 blockquote { border-left: 1rem solid #641c34; margin: 0rem; padding: 0rem 1rem; background-color: #f7f4f5 }
-/*
-blockquote { border-left: 0.5rem #AAAAAA solid; margin-left: 0rem; margin-right: 0rem; padding: 5.1rem 1rem; background-color: #EEEEEE }
-*/
