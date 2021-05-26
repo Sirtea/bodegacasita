@@ -54,7 +54,7 @@ disolución voy a tener que calentar el agua un poco.
 | Levadura    | 1,45€        | 27,5gr (5 sobres) | 5,5gr (1 sobre)    | 0,29€       |
 | Globo       | 0,80€        | 10 globos         | 1 globo            | 0,08€       |
 
-**Total**: 0,74€ (sobre 1 litro aprovechable)
+**Total**: 0,74€ (sobre 1,25 litros aprovechables)
 
 ## Instrucciones
 
@@ -92,6 +92,14 @@ He sacado 2 botellas y media de refresco (aquarius, medio litro cada una). Como
 he traspasado el líquido por decantación de la botella y no he usado un sifón, se
 me ha colado algo de levadura; las primeras botellas tienen un color blanquinoso
 transparente y la tercera tiene un color blanco absoluto. Se dejan en la nevera.
+Tras dos días, el color es transparente completamente en las 3 botellas, con un
+ligero poso en el fondo.
+
+He empezado a tomar la tercera botella de chupito en chupito, uno al día. El
+sabor es bastante parecido a un vino blanco seco. Tanto si tiene color transparente
+como blanquinoso está bastante bueno; tuve que remover con ganas para levantar
+toda la levadura y sacar un sabor desagradable, proveniente de la levadura muerta
+(no lo hagáis en casa). Se guardan las dos primeras botellas para su envejecimiento.
 
 [1]: {{< relref "/manuales/como-fermentar-vino.md" >}}
 [2]: {{< relref "/manuales/equipo-basico.md" >}}
