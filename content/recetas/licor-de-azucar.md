@@ -68,14 +68,14 @@ solución azucarada a la botella de agua para hacer **el mosto**.
 Añadimos la levadura (sin hidratar, para que lo haga en el mosto). Acto seguido,
 agitamos la botella para que todo el mosto y la levadura se mezcle. Finalmente,
 ponemos la válvula de escape de CO<sub>2</sub> (el globo perforado que vamos a
-usar). En unas 8 horas debería haber empezado la fermentación,que podemos
+usar). En unas 8 horas debería haber empezado la fermentación, que podemos
 evidenciar por una actividad burbujeante.
 
 ### Notas de campo
 
-#### Primer intento: 25/05/2021
+#### Primer intento: 25/04/2021
 
-El primer intento se hizo el día 25 de mayo. La reacción de la levadura fue
+El primer intento se hizo el día 25 de abril. La reacción de la levadura fue
 inmediata; tenía una reacción fuerte en poco más de 30 minutos, que duró entre
 3 y 4 días con el globo muy hinchado, hasta que se deshinchó totalmente.
 
