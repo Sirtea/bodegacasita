@@ -15,9 +15,9 @@ opciones alternativas.
 * **Uva** &rarr; vino
 * **Manzana** &rarr; sidra
 * **Pera** &rarr; *perry*
-* **Piña** &rarr; ???
-* **Naranja** &rarr; ???
-* **Sandía** &rarr; ???
+* **Piña**
+* **Naranja**
+* **Sandía**
 * ...
 
 ## Ingredientes
@@ -82,6 +82,15 @@ que la fermentación acabe (unos días) y embotellamos.
 El primer intento se hizo el día 25 de mayo. La reacción de la levadura fue lenta;
 tardó unas 4 horas en empezar e hinchar el globo. En este punto sé que la fermentación
 ha empezado y lo aparto al exterior de casa para darle su tiempo y su ventilación.
+
+El globo se deshinchó en pocos días. Tras 3 días caídos, el 31 de mayo retiro el globo
+y pongo el tapón de la botella de agua y meneo la botella con energía. Durante 3 días
+más voy desenroscando el tapón, lo justo para que salga algún resto de CO<sub>2</sub>
+nuevo, y el día 6 de junio embotello, por decantación.
+
+Obtengo 2 botellas y media con algo que huele poco a alcohol, y mucho a zumo de piña.
+En la tercera botella, hay un color más blanquecino que es la levadura y cae al fondo
+24 horas después.
 
 [1]: {{< relref "/manuales/calculando-el-azucar-y-el-alcohol.md" >}}
 [2]: {{< relref "/recetas/licor-de-azucar.md" >}}
